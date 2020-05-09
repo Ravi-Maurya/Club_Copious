@@ -2,6 +2,9 @@
 Copious means - abundant in supply or quantity.
 Its an E - Commerce website built on Django Framework.
 
+#### Note
+> UI(Front End) is Downloaded under MIT Licence from mdbootstrap.com
+
 # Description
 1. Login/Signup Pages.
 2. Can add Items and its details.(For Admin)
